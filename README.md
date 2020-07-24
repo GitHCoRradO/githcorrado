@@ -1,9 +1,13 @@
-### Hi there 👋, my name is Corrado
-#### I am GitHub read me generator creator(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋
+
+### I am Corrado, a backend software engineer.
+
+
+
+
 
 I made this project just for fun.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 🔭 I’m currently working on this page. 
 
