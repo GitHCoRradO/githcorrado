@@ -3,16 +3,11 @@
 ![Corrado's github stats](https://github-readme-stats.vercel.app/api?username=githcorrado&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githcorrado&hide=groff,html&layout=compact)](https://github.com/githcorrado/github-readme-stats)
 -->
-
-<html>
   <head>
-    <title>98.css example</title>
     <meta charset="UTF-8" />
-
     <link rel="stylesheet" href="https://unpkg.com/98.css@0.1.4/build/98.css" />
   </head>
 
-  <body>
     <div class="window" style="margin: 32px; width: 250px">
       <div class="title-bar">
         <div class="title-bar-text">
@@ -33,8 +28,7 @@
         </section>
       </div>
     </div>
-  </body>
-</html>
+
 
 
 
