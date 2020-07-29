@@ -4,7 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githcorrado&hide=groff,html&layout=compact)](https://github.com/githcorrado/github-readme-stats)
 -->
 
-<!DOCTYPE html>
 <html>
   <head>
     <title>98.css example</title>
