@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Corrado's github stats](https://github-readme-stats.vercel.app/api?username=githcorrado&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githcorrado&hide=groff,html&layout=compact)](https://github.com/githcorrado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githcorrado&hide=groff,html)](https://github.com/githcorrado/github-readme-stats)
 
  
 
